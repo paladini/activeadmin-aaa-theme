@@ -1,0 +1,18 @@
+# Ignore bundler config and local vendor dependencies
+/.bundle/
+/vendor/
+/Gemfile.lock
+
+# Ignore dummy app temporary directories and database files
+/spec/dummy/db/*.sqlite3
+/spec/dummy/db/*.sqlite3-journal
+/spec/dummy/storage/*.sqlite3
+/spec/dummy/storage/*.sqlite3-journal
+/spec/dummy/log/*.log
+/spec/dummy/tmp/
+/spec/dummy/public/assets/
+/spec/dummy/output.log
+
+# Ignore OS files
+.DS_Store
+Thumbs.db
