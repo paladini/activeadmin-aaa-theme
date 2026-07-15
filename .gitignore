@@ -3,6 +3,10 @@
 /vendor/
 /Gemfile.lock
 
+# Ignore npm dependencies
+/node_modules/
+/package-lock.json
+
 # Ignore dummy app temporary directories and database files
 /spec/dummy/db/*.sqlite3
 /spec/dummy/db/*.sqlite3-journal
