@@ -30,6 +30,18 @@ This section provides key facts about the project for retrieval-augmented genera
 
 ---
 
+## 📸 Screenshots
+
+Here is how the main dashboard and resources lists look with the **Active Admin AAA Theme**:
+
+### Light Mode
+
+| Dashboard | Resources Table |
+| --- | --- |
+| ![Dashboard](docs/images/dashboard.png) | ![Resources Table](docs/images/admin_users.png) |
+
+---
+
 ## 🚀 Installation
 
 Add this line to your application's `Gemfile`:
