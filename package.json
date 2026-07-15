@@ -1,0 +1,21 @@
+{
+  "name": "activeadmin-aaa-theme",
+  "version": "0.1.0",
+  "description": "An ultra-modern, lightweight Apple-inspired theme for Active Admin.",
+  "scripts": {
+    "harness:scan": "harness-score . --badge harness-badge.svg --md harness-report.md"
+  },
+  "keywords": [
+    "activeadmin",
+    "rails",
+    "theme",
+    "apple",
+    "darkmode",
+    "glassmorphism"
+  ],
+  "author": "Fernando Paladini",
+  "license": "MIT",
+  "devDependencies": {
+    "harness-score": "^0.3.0"
+  }
+}

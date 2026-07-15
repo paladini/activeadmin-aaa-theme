@@ -2,6 +2,7 @@
 
 [![Gem Version](https://badge.fury.io/rb/activeadmin-aaa-theme.svg)](https://badge.fury.io/rb/activeadmin-aaa-theme)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![AI Harness Score](harness-badge.svg)](harness-report.md)
 
 An ultra-modern, responsive, lightweight, and modular theme for **Active Admin** in Ruby on Rails, featuring a contemporary design inspired by Apple's latest UI/UX principles (rounded layouts, glassmorphism, native dark mode, HSL variables, and fluid transitions).
 
